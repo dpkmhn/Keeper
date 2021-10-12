@@ -11,6 +11,5 @@
 
 ## Screenshot
 
-<br>
 <img src="screenshots/home.png" alt="Smiley face" width = "700"  height = "400">
  
