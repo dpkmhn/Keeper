@@ -1,4 +1,4 @@
-# WhatsApp Clone
+# Keeper App
 
 ## General Info
 
